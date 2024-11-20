@@ -32,5 +32,6 @@ Bells University of Technology (Second Class Upper)
 Transitioning to software development, with projects leveraging React and TypeScript to build interactive, performant applications.
 
 📫 Let's Connect
-LinkedIn - https://www.linkedin.com/in/akinsiku-ayokunle-a03021177/
+LinkedIn - [https://www.linkedin.com/in/akinsiku-ayokunle-a03021177/](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fakinsiku-ayokunle-a03021177%2F
+)
 GitHub - https://github.com/AmosOO7/
